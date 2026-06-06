@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-*.asc linguist-generated=true
+*.asc linguist-language=Text
